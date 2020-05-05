@@ -1,1 +1,1 @@
-import * as PIXI from "pixi.min.js";
+import * as PIXI from "pixi.js";
